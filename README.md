@@ -8,7 +8,7 @@ It's a commercial product (now under [AlcedoTech](https://alcedotech.io)), so th
 
 <!-- TODO(Mohamed): optional, add a 1-2 minute demo video link here -->
 
-Screenshots use invented demo data. The app still shows its earlier name, Tech LAND Sales.
+Screenshots use invented demo data.
 
 ---
 
